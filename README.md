@@ -1,5 +1,5 @@
 # React Spinkit
-A simple react plugin create from [spinkit](https://github.com/tobiasahlin/SpinKit)
+A simple react plugin created from [spinkit](https://github.com/tobiasahlin/SpinKit)
 
 #### Installation
 ```cmd
