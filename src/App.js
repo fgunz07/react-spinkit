@@ -46,7 +46,7 @@ class App extends React.Component {
     return (
       <div style={style}>
         <Container>
-          <Header as='h2'>React SpinKit <small style={textMuted}>v1.0.0</small> <Label color="blue">yarn add react-spinkit</Label></Header>
+          <Header as='h2'>React SpinKit Wrapper <small style={textMuted}>v1.0.3</small> <Label color="blue">yarn add react-spinkit-wrapper or npm i react-spinkit-wrapper</Label></Header>
           <Grid columns={3} container>
             <Grid.Row>
               <Grid.Column>
